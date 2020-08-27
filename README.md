@@ -3,4 +3,4 @@
 AWS SAA-C02 Preparation Guide
 =============================
 
-[Add related link](http://google.com)
+[Add related link](http://rinat-gk.github.io/AWS-SAA-C02/index.html)
